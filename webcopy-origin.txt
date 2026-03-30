@@ -1,0 +1,40 @@
+Uri: https://astrology-love-solutions-roo.caffeine.xyz/
+File Name: C:\Users\Admin\Downloads\newd\astrology-love-solutions-roo.caffeine.xyz\index.htm
+Content Type: text/html
+
+Uri: https://astrology-love-solutions-roo.caffeine.xyz/assets/index-CZ1UYzhw.js
+File Name: C:\Users\Admin\Downloads\newd\astrology-love-solutions-roo.caffeine.xyz\assets\index-CZ1UYzhw.js
+Content Type: application/javascript
+
+Uri: https://astrology-love-solutions-roo.caffeine.xyz/assets/index-DNIStSsr.css
+File Name: C:\Users\Admin\Downloads\newd\astrology-love-solutions-roo.caffeine.xyz\assets\index-DNIStSsr.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap
+File Name: C:\Users\Admin\Downloads\newd\astrology-love-solutions-roo.caffeine.xyz\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Users\Admin\Downloads\newd\astrology-love-solutions-roo.caffeine.xyz\s\poppins\v24\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Users\Admin\Downloads\newd\astrology-love-solutions-roo.caffeine.xyz\s\poppins\v24\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Users\Admin\Downloads\newd\astrology-love-solutions-roo.caffeine.xyz\s\poppins\v24\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Users\Admin\Downloads\newd\astrology-love-solutions-roo.caffeine.xyz\s\poppins\v24\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Users\Admin\Downloads\newd\astrology-love-solutions-roo.caffeine.xyz\s\poppins\v24\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Users\Admin\Downloads\newd\astrology-love-solutions-roo.caffeine.xyz\s\poppins\v24\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
