@@ -22731,9 +22731,13 @@ function Header({ scrolled }) {
         /* @__PURE__ */ jsxRuntimeExports.jsxs("div", {
         className: "max-w-6xl mx-auto px-4 py-3 flex items-center justify-between", children: [
           /* @__PURE__ */ jsxRuntimeExports.jsxs("div", {
-          className: "flex items-center gap-2", children: [
-            /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "text-2xl", children: "⭐" }),
-            /* @__PURE__ */ jsxRuntimeExports.jsxs("div", {
+        className: "flex items-center gap-2", children: [
+    /* @__PURE__ */ jsxRuntimeExports.jsx("img", {
+        src: "/assets/generated/logo.png",   // yaha apna logo path do
+        alt: "logo",
+        className: "h-10 w-auto object-contain"
+    }),
+    /* @__PURE__ */ jsxRuntimeExports.jsxs("div", {
             children: [
               /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "font-black text-lg leading-tight gradient-text", children: "bhanu shastri" }),
               /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-xs text-brand-muted font-medium", children: "Love & Astrology Expert" })
