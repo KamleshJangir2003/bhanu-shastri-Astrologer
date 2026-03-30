@@ -22544,7 +22544,7 @@ function FAQ() {
 }
 const PHONE$4 = "+91 7014726727";
 const PHONE_RAW$5 = "+917014726727";
-const WA_LINK$2 = "https://wa.me/919876543210?text=Hello%20Pandit%20Ji%2C%20I%20need%20your%20help.";
+const WA_LINK$2 = "https://wa.me/917014726727?text=Hello%20Pandit%20Ji%2C%20I%20need%20your%20help.";
 function FloatingWhatsApp() {
   return /* @__PURE__ */ jsxRuntimeExports.jsxs(
     "a",
@@ -22580,7 +22580,7 @@ function StickyCallButton() {
 }
 const PHONE$3 = "+91 7014726727";
 const PHONE_RAW$4 = "+917014726727";
-const WA_LINK$1 = "https://wa.me/919876543210?text=Hello%20Pandit%20Ji%2C%20I%20need%20your%20help.";
+const WA_LINK$1 = "https://wa.me/917014726727?text=Hello%20Pandit%20Ji%2C%20I%20need%20your%20help.";
 const SOCIAL$1 = [
   { Icon: SiFacebook, href: "https://facebook.com", label: "Facebook" },
   { Icon: SiInstagram, href: "https://instagram.com", label: "Instagram" },
@@ -22834,7 +22834,7 @@ function Header({ scrolled }) {
 }
 const PHONE$1 = "+91 7014726727";
 const PHONE_RAW$2 = "+917014726727";
-const WA_LINK = "https://wa.me/919876543210?text=Hello%20Pandit%20Ji%2C%20I%20need%20your%20help.";
+const WA_LINK = "https://wa.me/917014726727?text=Hello%20Pandit%20Ji%2C%20I%20need%20your%20help.";
 const badges = [
   { icon: "⭐", label: "10+ Years Exp" },
   { icon: "👨‍👩‍👧", label: "1000+ Happy Clients" },
